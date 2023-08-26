@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Set your GitHub username and personal access token
-GITHUB_USERNAME="Jay-Nehra"
-ACCESS_TOKEN="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"
+GITHUB_USERNAME="github_username"
+ACCESS_TOKEN="github_access_token"
 
 # Set the date for which you want to generate the summary
 DATE=$(date +'%Y-%m-%d')
